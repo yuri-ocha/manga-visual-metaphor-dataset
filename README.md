@@ -12,7 +12,8 @@ The dataset is intended as an exploratory resource for studying visual metaphors
 
 The repository includes:
 
-- annotation metadata: work title, volume, page panel
+three csv files by Authors, Annotator1, Annotator2
+- annotation metadata: manga work title, volume, page, panel
 - labels: metaphor, metaphor types (a: Juxtaposition/Simile, b: Fusion/Hybrid, c: Replacement/Contextual/Recoverable replacement, d: Non-recoverable replacement)
 
 Note:
